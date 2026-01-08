@@ -1,3 +1,4 @@
+[...document.querySelectorAll("button.refreshTimeDeleteButton")].forEach(b => b.click());
 (() => {
   // ====== CONFIG (edit this list however you want) ======
   // Use hour as "1".."12", minute as "00" or "30", ampm as "AM"/"PM"
